@@ -7566,6 +7566,18 @@ button.bg-dark:focus {
     z-index: 999;
 }
 
+.popup-link{
+  color: green; 
+    border-bottom: 1px solid red;
+    padding: 5px;
+}
+
+.popup-link:hover{
+  color: red;
+  font-weight: 600;
+}
+
+
 .certificate-popup img.popup-image {
     max-width: 80%;
     max-height: 80%;
